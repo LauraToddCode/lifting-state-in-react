@@ -1,14 +1,12 @@
 import React from "react";
 
-class Chosen extends React.Component {
-    render() {
-        return (
-            <div id="chosenContainer">
-                <p>Chosen option:</p>
-    
-            </div>
-        )
-    }
+function Chosen(props) {
+    return (
+        <div id="chosenContainer">
+            <p>Chosen option:</p>
+            <p>{props.choice}</p>
+        </div>
+    )
 }
 
 export default Chosen;
