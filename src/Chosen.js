@@ -4,7 +4,7 @@ function Chosen(props) {
     return (
         <div id="chosenContainer">
             <p>Chosen option:</p>
-            <p>{props.choice}</p>
+            <p></p>
         </div>
     )
 }
