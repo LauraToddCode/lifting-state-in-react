@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/stylesheet.css"],"names":[],"mappings":"AAAA,iBACI,WAAY,CACZ,WAAY,CACZ,wBAAyB,CACzB,eAAgB,CAChB,YACJ","file":"main.e235b079.chunk.css","sourcesContent":["#chosenContainer {\r\n    height: 80px;\r\n    width: 150px;\r\n    background-color: #A8D9F8;\r\n    margin-top: 10px;\r\n    padding: 10px;\r\n}"]}
